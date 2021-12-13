@@ -153,3 +153,4 @@ cloudinary.config(
   api_key = "236311713316395",
   api_secret = "MTJEiQewHTQOLAJgtk1bQY4h40A",
 )
+django_heroku.settings(locals())
