@@ -14,9 +14,10 @@ You need to have git installed You can install it with the following command in 
 To access this project on your local files, you can clone it using these steps
 
 # Open your terminal
-Use this command to clone `$ git clone https://github.com/hassan3111/instagram-clone.git
+Use this command to clone `$ git clone https://github.com/hassan3111/Awwards
 This will clone the repository into your local folder
-Technologies Used
+
+# Technologies Used
 python3.8
 Boostrap
 Django
